@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valentinasjegorovas/movies-app/static/css/main.2476fcf4.css",
+    "main.js": "/valentinasjegorovas/movies-app/static/js/main.6df5a11d.js",
+    "index.html": "/valentinasjegorovas/movies-app/index.html",
+    "main.2476fcf4.css.map": "/valentinasjegorovas/movies-app/static/css/main.2476fcf4.css.map",
+    "main.6df5a11d.js.map": "/valentinasjegorovas/movies-app/static/js/main.6df5a11d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2476fcf4.css",
+    "static/js/main.6df5a11d.js"
+  ]
+}
