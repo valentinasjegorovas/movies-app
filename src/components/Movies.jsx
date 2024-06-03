@@ -1,11 +1,15 @@
 import Movie from './Movie';
 
-const Movies = ({movies}) => {
+const Movies = ({ movies = [] }) => {
   return (
     <div className="movies">
-      {movies.map((movie) => {
-        return <Movie key={movie.imdbID} {...movie} />;
-      })}
+      {movies.length ? (
+        movies.map((movie) => {
+          return <Movie key={movie.imdbID} {...movie} />;
+        })
+      ) : (
+        <h4>Nothing found, please try again.</h4>
+      )}
     </div>
   );
 };
