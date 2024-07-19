@@ -30,7 +30,7 @@ To get started with the project, follow these steps:
 
 2. **Navigate into the project directory**:
    ```sh
-   cd movies-pp
+   cd movies-app
    
 3. **Install NPM packages**:
    ```sh
