@@ -41,6 +41,7 @@ To get started with the project, follow these steps:
    **To start the project**:
    ```sh
    npm start
+```
 
 ## Technologies Used
 
